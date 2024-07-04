@@ -1,0 +1,33 @@
+package entitites;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+
+import entitites.enums.OrderStatus;
+
+public class Order {
+
+	private Date date;
+	private OrderStatus status;
+
+	List<OrderItem> orderItem = new ArrayList<>();
+
+	public Order(Date date, OrderStatus status) {
+		this.date = date;
+		this.status = status;
+	}
+
+	public Date getDate() {
+		return date;
+	}
+
+	public OrderStatus getStatus() {
+		return status;
+	}
+
+	public void addItem(OrderItem item) {
+
+	}
+
+}

@@ -1,0 +1,13 @@
+package application;
+
+import java.time.LocalDate;
+
+public class Testes {
+
+	public static void main(String[] args) {
+
+		LocalDate d01 = LocalDate.now();
+
+		System.out.println(d01);
+	}
+}

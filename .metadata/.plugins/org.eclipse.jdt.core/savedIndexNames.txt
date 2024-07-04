@@ -1,0 +1,8 @@
+INDEX VERSION 1.129+C:\Users\DIOGO\Curso Udemy\.metadata\.plugins\org.eclipse.jdt.core
+4025274548.index
+1703908543.index
+2275238878.index
+3959425854.index
+3674637189.index
+3124896962.index
+2816814934.index

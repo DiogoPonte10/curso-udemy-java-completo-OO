@@ -1,0 +1,22 @@
+package application;
+
+import java.time.Instant;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+
+public class Testes2 {
+
+	public static void main(String[] args) {
+
+		LocalDate d01 = LocalDate.parse("2024-10-18");
+		LocalDateTime d02 = LocalDateTime.parse("2024-10-18T10:30:22");
+		Instant d03 = Instant.parse("2024-10-18T10:30:22Z");
+
+		DateTimeFormatter ftm1 = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+
+		System.out.println("D01 - " + d01.format(ftm1));
+		System.out.println("D01 - " + ftm1.format(d01));
+
+	}
+}

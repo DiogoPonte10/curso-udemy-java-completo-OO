@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;WorkerLevel.java&apos; to &apos;ProgramWorker/src/entities.enums&apos;&#x0D;&#x0A;- Original project: &apos;ProgramWorker&apos;&#x0D;&#x0A;- Destination element: &apos;ProgramWorker/src/entities.enums&apos;&#x0D;&#x0A;- Original element: &apos;entities.WorkerLevel.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;entities.enums" element1="/src&lt;entities{WorkerLevel.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1719000311444" units="1" version="1.0"/>
+</session>

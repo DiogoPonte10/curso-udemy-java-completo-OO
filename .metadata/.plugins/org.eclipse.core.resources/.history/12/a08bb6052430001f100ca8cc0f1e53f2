@@ -1,0 +1,23 @@
+package entitites;
+
+public class OrderItem {
+
+	Product product = new Product();
+
+	private Integer quantity;
+	private Double price = product.getPrice();
+
+
+	public Integer getQuantity() {
+		return quantity;
+	}
+
+	public void setQuantity(Integer quantity) {
+		this.quantity = quantity;
+	}
+
+
+	public double subTotal() {
+		return quantity * price;
+	}
+}
