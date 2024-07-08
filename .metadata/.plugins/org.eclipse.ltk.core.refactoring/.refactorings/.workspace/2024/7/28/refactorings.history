@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;DesafioAccount&apos; to &apos;DesafioAccountException&apos;&#x0D;&#x0A;- Original element: &apos;DesafioAccount&apos;&#x0D;&#x0A;- Renamed element: &apos;DesafioAccount&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;DesafioAccount&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=DesafioAccount" name="DesafioAccountException" references="true" stamp="1720398916074" version="1.0"/>
+</session>
