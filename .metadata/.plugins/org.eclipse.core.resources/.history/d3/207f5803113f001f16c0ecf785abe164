@@ -21,9 +21,9 @@ public class Program {
 		System.out.println("Enter with the data of rent:");
 		System.out.print("Model of vehicle: ");
 		String model = sc.nextLine();
-		System.out.print("Start (dd/mm/yyyy hh:mm): ");
+		System.out.print("Start (dd/mm/yyyy hh:mm):");
 		LocalDateTime start = LocalDateTime.parse(sc.nextLine(), fmt);
-		System.out.print("Finish (dd/mm/yyyy hh:mm): ");
+		System.out.print("Finish (dd/mm/yyyy hh:mm):");
 		LocalDateTime finish = LocalDateTime.parse(sc.nextLine(), fmt);
 
 		CarRental cr = new CarRental(start, finish, new Vehicle(model));
