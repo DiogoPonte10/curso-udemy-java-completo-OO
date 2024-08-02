@@ -23,10 +23,7 @@
 <fullyQualifiedTypeName name="model.entities.Account"/>
 <fullyQualifiedTypeName name="model.exception.DomainException"/>
 <fullyQualifiedTypeName name="java.io.File"/>
-<fullyQualifiedTypeName name="java.io.BufferedReader"/>
-<fullyQualifiedTypeName name="java.io.FileReader"/>
 <fullyQualifiedTypeName name="model.entities.Product"/>
-<fullyQualifiedTypeName name="java.io.IOException"/>
 <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
 <fullyQualifiedTypeName name="java.io.FileWriter"/>
 <fullyQualifiedTypeName name="java.util.Locale"/>
@@ -42,4 +39,10 @@
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="entities.Candidate"/>
+<fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
 </qualifiedTypeNameHistroy>

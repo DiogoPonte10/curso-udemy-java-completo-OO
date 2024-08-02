@@ -1,0 +1,5 @@
+package model.entitties;
+
+public class Department {
+
+}

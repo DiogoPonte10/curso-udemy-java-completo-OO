@@ -1,0 +1,13 @@
+package model.entitties;
+
+public class Seller {
+
+	private Integer id;
+	private String name;
+
+	public Seller(){
+
+	}
+
+
+}

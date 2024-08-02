@@ -1,0 +1,14 @@
+package model.entitties;
+
+public class Seller {
+
+	private Integer id;
+	private String name;
+	private String email;
+
+	public Seller(){
+
+	}
+
+
+}

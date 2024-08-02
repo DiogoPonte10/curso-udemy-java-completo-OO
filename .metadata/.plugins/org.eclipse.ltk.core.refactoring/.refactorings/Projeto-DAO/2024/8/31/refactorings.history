@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;model.dao.SellerDo&apos; to &apos;SellerDao&apos;&#x0D;&#x0A;- Original project: &apos;Projeto-DAO&apos;&#x0D;&#x0A;- Original element: &apos;model.dao.SellerDo&apos;&#x0D;&#x0A;- Renamed element: &apos;model.dao.SellerDao&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SellerDo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;model.dao{SellerDo.java[SellerDo" matchStrategy="1" name="SellerDao" qualified="false" references="true" similarDeclarations="false" stamp="1722474443637" textual="false" version="1.0"/>
+</session>
